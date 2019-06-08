@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19878628551",
+    "firebase_url": "https://aula-iot-27590.firebaseio.com",
+    "project_id": "aula-iot-27590",
+    "storage_bucket": "aula-iot-27590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19878628551:android:baea12a5f67a871b",
+        "android_client_info": {
+          "package_name": "br.com.cvinicios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19878628551-ch9s7eakrs3r44vj78u8t2n5naq0tnvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.cvinicios",
+            "certificate_hash": "4dbc7281d3e46526f1e3c19867a830c5111db914"
+          }
+        },
+        {
+          "client_id": "19878628551-41oht7p1uaajja634k213j96ilcfhh3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD74DHa6kkLuxgy75TouufTCPZk0omLpSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19878628551-41oht7p1uaajja634k213j96ilcfhh3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
